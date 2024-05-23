@@ -1,3 +1,5 @@
+#Assista a partir de 56:27'' https://www.youtube.com/watch?v=p0E3thG3K4Q 
+
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 Esse é o projeto Mood Menu apresentado como trabalho de conclusão do Bootcamp de Web Developer Ruby on Rails da escola internacional LEWAGON março/2022.
 A proposta é um site que encontra restaurantes próximos à localização atual do usuário utilizando um filtro de humor (mood). 
